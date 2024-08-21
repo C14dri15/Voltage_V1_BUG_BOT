@@ -14,7 +14,7 @@ global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'VOLTAGE 👑\n\nContact: +2349155298855'
+global.author = 'VOLTAGE 👑\n\nContact: +237657873063'
 
 //console view/theme
 global.themeemoji = '🪀'
