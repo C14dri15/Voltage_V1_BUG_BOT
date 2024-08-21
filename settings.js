@@ -3,13 +3,13 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "237657873063
-global.ownername = "Voltage Lord👑"
+global.ownername = "Voltage ël Käzämär 🌹
 global.ytname = "YT: Voltagelordprotech"
-global.socialm = "GitHub: VoltageLord"
+global.socialm = "GitHub: ël Käzämär 🌹"
 global.location = "Nigeria, Edo, Benin"
 
 global.ownernumber = '237657873063'  //creator number
-global.ownername = 'Voltage Lord' //owner name
+global.ownername = 'ël Käzämär 🌹' //owner name
 global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
 //sticker details
