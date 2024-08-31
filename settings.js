@@ -6,7 +6,7 @@ global.ownernomer = "237657873063
 global.ownername = "Voltage ël Käzämär 🌹
 global.ytname = "YT: Voltagelordprotech"
 global.socialm = "GitHub: ël Käzämär 🌹"
-global.location = "Nigeria, Edo, Benin"
+global.location = Nigeria, Edo, Benin"
 
 global.ownernumber = '237657873063'  //creator number
 global.ownername = 'ël Käzämär 🌹' //owner name
