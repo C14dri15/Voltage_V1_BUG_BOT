@@ -12,9 +12,9 @@ global.ownernumber = '237657873063'  //creator number
 global.ownername = 'ël Käzämär 🌹' //owner name
 global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
-//sticker details
+//sticker detail
 global.packname = 'Sticker By'
-global.author = ël Käzämär 👑\n\nContact: +237657873063'
+global.author = ''ël Käzämär 👑\n\nContact: +237657873063'
 
 //console view/theme
 global.themeemoji = '🪀'
